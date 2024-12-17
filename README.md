@@ -1,6 +1,6 @@
 🚀 Project Overview
 
-This project provides a comprehensive financial analysis of Thien Long Group (TLG) company's data. Using Python, key metrics were extracted, analyzed, and visualized to identify trends, provide actionable insights, and drive data-driven business decisions.
+This project provides a comprehensive financial analysis of Thien Long Group (TLG) company's data. Using Python, key metrics were extracted, analyzed, and visualized to identify trends.
 
 🔍 Key Objectives
 1. Perform an exploratory data analysis (EDA) of TLG's financial data.
